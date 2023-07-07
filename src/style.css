@@ -1,0 +1,13 @@
+* {
+  background-color: black;
+  font-family: monospace;
+  color: azure;
+}
+
+#hero {
+}
+#hero h1 p {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
