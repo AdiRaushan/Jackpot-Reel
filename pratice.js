@@ -41,3 +41,4 @@ let balance = deposit();
 const numberOfLines = GetNumberOfLines();
 
 console.log(balance, numberOfLines);
+console.log("hello");
