@@ -6,8 +6,6 @@
 // give the user wining or lose take the money
 // play again
 
-const PromptSync = require("prompt-sync");
-
 // require function use to use prompt-sync
 const Prompt = require("prompt-sync")();
 
@@ -41,4 +39,3 @@ let balance = deposit();
 const numberOfLines = GetNumberOfLines();
 
 console.log(balance, numberOfLines);
-console.log("hello");
