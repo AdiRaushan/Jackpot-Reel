@@ -52,4 +52,4 @@ let balance = deposit();
 const numberOfLines = GetNumberOfLines();
 const bet = mybet(balance, numberOfLines);
 
-console.log(balance, numberOfLines, bet);
+console.log(balance, numberOfLines, bet
