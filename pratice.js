@@ -53,3 +53,4 @@ const numberOfLines = GetNumberOfLines();
 const bet = mybet(balance, numberOfLines);
 
 console.log(balance, numberOfLines, bet);
+errpr resolve
